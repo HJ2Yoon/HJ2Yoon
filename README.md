@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:fccb90,100:d57eeb&height=280&text=Welcome&desc=Hi!%20I'm%20HyeongJun%20Yoon&descAlignY=55&fontAlignY=35&fontColor=ffffff#)
 
 ## 🖐 Hello!
-안녕하세요 제 이름은 윤형준이고 지금 현재는 프론트엔드를 공부하고있어요! 
+안녕하세요! 지금 현재는 프론트엔드를 공부하고있어요! 
 <br>
 <br>
 Good day! Visitor I'm **HyeongJun Yoon** Who likes to develop Front-End in Korea <br> My main skills are HTML, CSS, JavaScript and nowdays I'm studying hard for React
