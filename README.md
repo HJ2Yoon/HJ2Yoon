@@ -17,8 +17,3 @@ Good day! Visitor I'm **HyeongJun Yoon** Who likes to develop Front-End in Korea
 
 #### 🔨 Tools
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
-
-<br>
-
-## 📝 GitHub Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HJ2Yoon&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
